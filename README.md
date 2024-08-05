@@ -1,1 +1,6 @@
-# portfolio
+# Student
+
+## Education 
+Electrical Engineering
+
+###  Contest
