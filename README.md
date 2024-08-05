@@ -16,7 +16,7 @@ Eletrical Engineering | National Taiwan University of Science and Technology
  
 ---
 ## Course
-![image](/assets/img/CourseGpa.png)
+![image](/assets/img/CourseGpa.png =300x)
 
 ---
 ## Project
