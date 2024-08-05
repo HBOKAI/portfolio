@@ -15,7 +15,11 @@ Eletrical Engineering, National Taiwan University of Science and Technology
 
 ---
 ## Course
-
+|course|gpa|course|gpa|
+|:---:|:---:|:---:|:---:|
+|信號與系統|            A+|    演算法設計與分析|            A+|
+|計算機組織|            A+|    超大型積體電路設計導論|       A|
+|數位系統設計|          A+|    電子設計自動化軟體開發與實作|  A|
 
 ---
 ## Project
