@@ -16,6 +16,10 @@ Eletrical Engineering | National Taiwan University of Science and Technology
 電子設計自動化軟體開發與實作  |A
 演算法設計與分析             |A+
 超大型積體電路設計導論        |A
+- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
+- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
+- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+
  
 ---
 ## Course
