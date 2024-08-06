@@ -4,9 +4,6 @@
 ## 👋🏻👋🏻 Hello, I'm Ken !!
 我是一個喜歡旅遊、跑步和看劇的人。這些興趣不僅讓我保持身心健康，還讓我擁有豐富的生活經驗和開闊的視野。在大學生活中，雖然我沒有擔任社團幹部，但我參加了很多比賽，培養了團隊合作和時間管理的能力。
 
-## Work experience
-曾在升大學時的暑假在一家鑄造耗材公司打工，也在大一時在咖啡廳的內場工作過。雖然我的工作經驗不多，但我對不同的工作環境適應性高。
-
 ---
 ## Education 
 - Eletrical Engineering | National Taiwan University of Science and Technology
