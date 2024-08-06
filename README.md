@@ -78,7 +78,7 @@
 
 ### Implement a 5-stage pipelined processor with forwarding and hazard detection (Computer Organization #Final)
 
-
+![CA_PA3_3](/assets/img/CA_PA3_3.png)
 
 ### Inertial navigation with MPU6050
 
