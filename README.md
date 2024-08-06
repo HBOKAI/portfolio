@@ -48,7 +48,7 @@ Eletrical Engineering | National Taiwan University of Science and Technology
 - Problem D (推廣題)	Chip Level Global Router (尚未結束)
 
 ### 桃園虎頭山自走車 
-- 參賽
+- 未得名
 
 ### 黑克松 
-- 參賽
+- 未得名
