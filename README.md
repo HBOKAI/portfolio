@@ -21,10 +21,19 @@
 
 ---
 ## Project
+### Global Routing (2-pin nets)
 
-### Global Routing (Algorithm Design and Analysis #PA2)
+在此項目中，我使用 Dijkstra 演算法來解決 2-pin nets 的路由問題。Dijkstra 演算法是一種經典的最短路徑算法，能有效地找到從起點到終點的最短路徑。具體步驟如下：
 
-使用
+1. 初始化：將所有節點的距離設為無限大，起點的距離設為0。
+
+2. 選擇節點：從未訪問的節點中選擇距離最小的節點作為當前節點。
+
+3. 更新距離：對於當前節點的每個鄰居，計算從起點經過當前節點到鄰居的距離，如果這個距離小於鄰居的當前距離，則更新鄰居的距離。
+
+4. 標記訪問：將當前節點標記為已訪問。
+
+5. 重複步驟2-4：直到所有節點都被訪問過或目標節點的距離已確定。
 
 ### Soft Block Floorplanning (Software Development for Electronic Design Automation #PA2)
 
@@ -45,9 +54,15 @@
 
 ### Implement a 5-stage pipelined processor with forwarding and hazard detection (Computer Organization #Final)
 
+
+
 ### Inertial navigation with MPU6050
 
+
+
 ### LeNet-5 with quatilization, augmentation, early exit
+
+
 
 ### yolo v4 real time detection
 
