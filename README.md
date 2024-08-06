@@ -32,7 +32,7 @@ Eletrical Engineering | National Taiwan University of Science and Technology
 - Op3: 交換兩個序列中的節點
 
 在成本評估階段，我使用 LCS（Longest Common Subsequence）來獲取垂直與水平方向的最長路徑（最大邊長），並根據總面積來判斷結果是否符合預期。
-
+![image](/assets/img/EDA_PA2_image.png)
 ### Soft Block Floorplanning (Software Development for Electronic Design Automation #PA2)
 
 ### Layout Decomposition for Triple Patterning Lithography (Software Development for Electronic Design Automation #PA3)
