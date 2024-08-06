@@ -35,7 +35,7 @@
 
 5. 重複步驟2-4：直到所有節點都被訪問過或目標節點的距離已確定。
 
-### Soft Block Floorplanning (Software Development for Electronic Design Automation #PA2)
+### Soft Block Floorplanning
 
 在這個專案中，我使用 Sequence Pair 的 Positive/Negative Locus 來表示各 block 的位置，並運用 Simulated Annealing 進行迭代以尋找最佳解。此過程包含三個操作：
 
@@ -76,7 +76,7 @@
 
 🟫 Evaluation : 評估布線的分數
 
-### Implement a 5-stage pipelined processor with forwarding and hazard detection (Computer Organization #Final)
+### Implement a 5-stage pipelined processor with forwarding and hazard detection 
 
 ![CA_PA3_3](/assets/img/CA_PA3_3.png)
 
