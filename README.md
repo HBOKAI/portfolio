@@ -58,9 +58,14 @@
 
 ![image](/assets/img/EDA_PA2_image.png){: width="550" }
 
-### Layout Decomposition for Triple Patterning Lithography (Software Development for Electronic Design Automation #PA3)
-
-
+### ICCAD Problem D, Chip Level Global Router
+- [x] Parser file：設計並實現了一個解析器，用於讀取和解析輸入文件中的設計數據。
+- [x] 單位轉換與旋轉變換：報告中提到如何將單位轉換為微米，並計算網格單元的數量。
+- [x] 視覺化圖形：開發了一個視覺化工具，用於展示設計中的各個block和gcell的分佈情況，便於分析和調試。
+- [x]使用射線法判斷各block涵蓋哪些gcell：利用射線法計算每個block所覆蓋的gcell，確保路由過程中的準確性。
+- [x] A*star routing：實現了A*star演算法，用於在設計中進行高效的路由尋徑。
+- [ ] ripup and reroute：設計並實現了ripup and reroute策略，用於解決路由衝突和優化路由結果。
+- [ ] Evaluation 
 
 ### Implement a 5-stage pipelined processor with forwarding and hazard detection (Computer Organization #Final)
 
