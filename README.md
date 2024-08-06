@@ -60,21 +60,23 @@
 
 ### ICCAD Problem D, Chip Level Global Router
 
-- [x] Parser file：讀取和解析輸入文件中的設計數據(3rd party)。
+✅ Parser file：讀取和解析輸入文件中的設計數據(3rd party)。
 
-- [x] 單位轉換與計算：統一不同輸入的單位，並計算gcell大小及數量。
+✅ 單位轉換與計算：統一不同輸入的單位，並計算gcell大小及數量。
 
-- [x] 旋轉變換：使用旋轉矩陣來計算新的坐標。
+✅ 旋轉變換：使用旋轉矩陣來計算新的坐標。
 
-- [x] 視覺化圖形：使用python來顯示設計中的各個block和gcell的分佈情況，便於分析和調試。
+✅ 視覺化圖形：使用python來顯示設計中的各個block和gcell的分佈情況，
+    便於分析和調試。
 
-- [x] 射線法判斷各block涵蓋哪些gcell：利用射線法計算每個block所覆蓋的gcell，確保路由過程中的準確性。
+✅ 射線法判斷各block涵蓋哪些gcell：利用射線法計算每個block所覆蓋的gcell，
+    確保路由過程中的準確性。
 
-- [x] A\*star routing : 實現了A*star演算法，進行高效的路由尋徑。
+✅ A\*star routing : 實現了A*star演算法，進行高效的路由尋徑。
 
-- [ ] ripup and reroute：用於解決路由衝突和優化路由結果。
+🟩 ripup and reroute：用於解決路由衝突和優化路由結果。
 
-- [ ] Evaluation : 評估布線的分數
+🟩 Evaluation : 評估布線的分數
 
 ### Implement a 5-stage pipelined processor with forwarding and hazard detection (Computer Organization #Final)
 
