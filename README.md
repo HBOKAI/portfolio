@@ -40,12 +40,22 @@
 在這個專案中，我使用 Sequence Pair 的 Positive/Negative Locus 來表示各 block 的位置，並運用 Simulated Annealing 進行迭代以尋找最佳解。此過程包含三個操作：
 
 - Op1: 重塑 block 並執行 Op2
-  
 - Op2: 交換同一序列中的兩個節點
-  
 - Op3: 交換兩個序列中的節點
 
 在成本評估階段，我使用 LCS（Longest Common Subsequence）來獲取垂直與水平方向的最長路徑（最大邊長），並根據總面積來判斷結果是否符合預期。
+
+**詳細步驟**
+1. 初始化：首先，為每個 block 分配初始位置，並計算初始成本。
+
+2. 迭代過程：在每次迭代中，隨機選擇一個操作（Op1、Op2 或 Op3）來改變 block 的位置。
+
+3. 成本計算：使用 LCS 計算新的布局的垂直與水平方向的最長路徑，並根據總面積來評估新布局的成本。
+
+4. 接受新解：根據 Simulated Annealing 的接受準則，決定是否接受新布局。如果新布局的成本更低，則接受新布局；如果成本更高，則根據一定的概率接受新布局，以避免陷入局部最優解。
+
+5. 溫度更新：逐漸降低系統的溫度，以減少接受較差解的概率，最終收斂到全局最優解。
+
 ![image](/assets/img/EDA_PA2_image.png){: width="550" }
 
 ### Layout Decomposition for Triple Patterning Lithography (Software Development for Electronic Design Automation #PA3)
