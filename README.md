@@ -66,17 +66,15 @@
 
 ✅ 旋轉變換：使用旋轉矩陣來計算新的坐標。
 
-✅ 視覺化圖形：使用python來顯示設計中的各個block和gcell的分佈情況，
-    便於分析和調試。
+✅ 視覺化圖形：使用python來顯示設計中的各個block和gcell的分佈情況，便於分析和調試。
 
-✅ 射線法判斷各block涵蓋哪些gcell：利用射線法計算每個block所覆蓋的gcell，
-    確保路由過程中的準確性。
+✅ 射線法判斷各block涵蓋哪些gcell：利用射線法計算每個block所覆蓋的gcell，確保路由過程中的準確性。
 
 ✅ A\*star routing : 實現了A*star演算法，進行高效的路由尋徑。
 
-🟩 ripup and reroute：用於解決路由衝突和優化路由結果。
+🟫 ripup and reroute：用於解決路由衝突和優化路由結果。
 
-🟩 Evaluation : 評估布線的分數
+🟫 Evaluation : 評估布線的分數
 
 ### Implement a 5-stage pipelined processor with forwarding and hazard detection (Computer Organization #Final)
 
