@@ -87,9 +87,6 @@
 ### LeNet-5 with quatilization, augmentation, early exit
 
 
-
-### yolo v4 real time detection
-
 ---
 ## Contest
 
