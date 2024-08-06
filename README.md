@@ -23,15 +23,13 @@ Eletrical Engineering | National Taiwan University of Science and Technology
 ## Project
 
 ### Global Routing (Algorithm Design and Analysis #PA2)
-使用Sequence Pair的Positive/Negative Locus來表示各block的位置，並使用Simulated Annealing來跌代找出較佳解，其中包含了三個operation分別為:
+在這個專案中，我使用 Sequence Pair 的 Positive/Negative Locus 來表示各 block 的位置，並運用 Simulated Annealing 進行迭代以尋找最佳解。此過程包含三個操作：
 
-- Op1 : Reshape block + Op2
-   
-- Op2 : Swap two nodes only a sequence
-   
-- Op3 : Swap two nodes in both sequence
-   
-在Cost evalution時使用LCS來獲取垂直與水平時的最長路徑(最大邊長)，與總面積來進行判斷結果是否符合預期。
+- Op1: 重塑 block 並執行 Op2
+- Op2: 交換同一序列中的兩個節點
+- Op3: 交換兩個序列中的節點
+
+在成本評估階段，我使用 LCS（Longest Common Subsequence）來獲取垂直與水平方向的最長路徑（最大邊長），並根據總面積來判斷結果是否符合預期。
 
 ### Soft Block Floorplanning (Software Development for Electronic Design Automation #PA2)
 
