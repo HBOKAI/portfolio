@@ -9,7 +9,7 @@
 
 ---
 ## Education 
-Eletrical Engineering | National Taiwan University of Science and Technology
+- Eletrical Engineering | National Taiwan University of Science and Technology
 
 ---
 ## GPA
