@@ -10,7 +10,7 @@
 
 ---
 ## GPA
-![image](/assets/img/gpa_.png){: width="700" }
+![image](/assets/img/gpa.png){: width="700" }
  
 ---
 ## Course
