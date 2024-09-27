@@ -80,6 +80,8 @@
 ### Inertial navigation with MPU6050 (專題)
 
 使用慣性運動元件(imu)捕捉手部動作，進行手部軌跡的捕捉，並在MSP430FR5994運行。在此專題中使用了butterworth以零相位的模式進行濾波後，再經過Manhany來更新四元數位置，透過更新後的四元數位置來計算出參考坐標系的加速度，並使用ZUPT(零速度更新)的方式來消除重力加速度以及在積分時產生的漂移誤差。
+![filtfilt架構](/assets/img/filtfilt架構.jpg)
+![軌跡計算新架構](/assets/img/軌跡計算新架構.jpg)
 
 ### LeNet-5 with quatilization, augmentation, early exit
 
