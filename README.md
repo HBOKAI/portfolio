@@ -93,10 +93,8 @@
 - 智慧拼圖  季軍
 
 ### ICCAD
-- Problem D (推廣題)	Chip Level Global Router (尚未結束)
+- Problem D (推廣題)	Chip Level Global Router 
 
 ### 桃園虎頭山自走車 
-- 未得名
 
 ### 黑克松 
-- 未得名
